@@ -1,0 +1,14 @@
+.canvas-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  overflow: hidden;
+}
+
+.canvas {
+  background-color: black;
+}
